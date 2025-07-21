@@ -41,3 +41,10 @@ print(flattened)  # [1 2 3 4 5 6]
 np.random.seed(0)           # For reproducibility
 print(np.random.rand(2, 3)) # Uniform [0,1) in 2x3
 print(np.random.randint(1, 10, size=(3,)))  # [1, 10)
+
+#extracting last square
+a=np.arange(1,31)
+r=a.reshape((5,6))
+print(r)
+new=r[3:,4:]
+print(new)
