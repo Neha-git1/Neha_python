@@ -1,0 +1,16 @@
+Month,Region,Item,Units_Sold,Revenue
+Jan,North,Pen,120,240
+Jan,North,Notebook,80,400
+Jan,North,Eraser,50,75
+Jan,South,Pen,100,200
+Jan,South,Notebook,70,350
+Jan,South,Eraser,60,90
+Feb,North,Pen,130,260
+Feb,North,Notebook,85,425
+Feb,North,Eraser,55,82.5
+Feb,South,Pen,110,220
+Feb,South,Notebook,75,375
+Feb,South,Eraser,65,97.5
+Dec,West,Pen,140,280
+Dec,West,Notebook,100,500
+Dec,West,Eraser,90,135
