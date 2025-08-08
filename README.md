@@ -1,6 +1,6 @@
 Python Basics
 
-This repository contains a collection of Python programs and practice scripts I’ve written while learning Python as part of my Computer Science and Data Science journey.
+Collection of programs to learn Python.
 
 It includes implementations of core Python concepts, basic data handling, and small exercises with standard libraries.
 
@@ -39,9 +39,5 @@ Tech Stack
 
 Notes
 
-This is a personal learning repository. The code here reflects my practice, learning progress, and experiments while mastering the basics of Python.
+This is a personal learning repository.
 
-Contact
-
-Created by Neha  
-Feel free to explore or reach out if you're on a similar learning path.
